@@ -5,9 +5,12 @@
    Virtual Pin: V0 (SOS Button Status)
    ================================================ */
 
-#define BLYNK_TEMPLATE_ID   "TMPLxxxxxxxx"
+
+
+#define BLYNK_TEMPLATE_ID "TMPL3fssadSM2"
 #define BLYNK_TEMPLATE_NAME "SOS"
-#define BLYNK_AUTH_TOKEN    "YourAuthTokenHere"
+#define BLYNK_TEMPLATE_NAME "SOS"
+#define BLYNK_AUTH_TOKEN    "PL6xunCpYWGhDem1DkmtMKKlhzmFDUSK"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
